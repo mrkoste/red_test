@@ -1,10 +1,10 @@
 <?php
 // Database setting
 $database_charset = 'utf8';
-$database_host = '148.251.139.209';
-$database_name = 'tasks';
-$database_user = 'tasks';
-$database_password = 'IPs7m2ecl1';
+$database_host = '';
+$database_name = '';
+$database_user = '';
+$database_password = '';
 
 if (!defined('PROJECT_BASE_PATH')) {
     define('PROJECT_BASE_PATH', strtr(realpath(dirname(dirname(dirname(__FILE__)))), '\\', '/') . '/');
