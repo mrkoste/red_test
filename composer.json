@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "RedT\\": "core/"
+        }
+    },
+    "require": {
+        "fenom/fenom": "^2.11"
+    }
+}
